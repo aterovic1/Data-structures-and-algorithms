@@ -1,0 +1,8 @@
+.at_result
+.autotest
+.gcc.out
+.gdb.out
+.runme
+.valgrind.out
+.output
+.zadaca
